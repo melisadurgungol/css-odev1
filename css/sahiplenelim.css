@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(228, 200, 174);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #7b113a;
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+
+nav{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+
+a{
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    color: #cc561e;
+    font-family: 'Courier New', Courier, monospace
+}
+
+p{
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+h4{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(160, 72, 9);
+    
+}
+
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:2px;
+    }
+     
+
+    .iletisim-form {
+        width:300px;
+        padding: 30px;
+        display: block;
+        margin: 0 auto;
+        background-color: #bd9354;
+        }
+
+
+ul{
+    font-size: 20px;
+    margin-left: 20px;
+}
